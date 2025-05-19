@@ -148,7 +148,7 @@ MIT License
 
 ## 🤝 Acknowledgements
 
-Our code is inspired by [SnowFlakeNet](https://github.com/AllenXiangX/SnowflakeNet) and [SeedFormer](https://github.com/hrzhou2/seedformer).  
+Our code is inspired by [PoinTr](https://github.com/yuxumin/PoinTr), [SnowFlakeNet](https://github.com/AllenXiangX/SnowflakeNet) and [SeedFormer](https://github.com/hrzhou2/seedformer).  
 
 We sincerely acknowledge the authors of [TUCNet](https://www.sciencedirect.com/science/article/abs/pii/S0010482523009848) for making part of their source code publicly available, which served as an important reference for the implementation of our method. 
 
